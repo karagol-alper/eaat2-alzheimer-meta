@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: >-
+  Analysis code for "Transporter abundance is preserved while transport fails:
+  re-examining EAAT2/SLC1A2 in the Alzheimer brain through the lens of estimand
+  specification"
+message: >-
+  If you use this code or the extraction matrix, please cite the accompanying
+  manuscript.
+type: software
+authors:
+  - given-names: Alper
+    family-names: Karagöl
+    email: akaragol@mit.edu
+    orcid: 'https://orcid.org/0009-0001-7864-0732'
+    affiliation: Istanbul University Istanbul Medical Faculty, Istanbul, Turkey
+  - given-names: Taner
+    family-names: Karagöl
+    email: karagolt@mit.edu
+    orcid: 'https://orcid.org/0009-0005-1011-7661'
+    affiliation: Istanbul University Istanbul Medical Faculty, Istanbul, Turkey
+abstract: >-
+  Reproducible analysis code, extraction matrix and document sources for a
+  quantitative evidence synthesis of post-mortem EAAT2/SLC1A2 measurements in
+  Alzheimer's disease. Regenerates every statistic and figure reported in the
+  manuscript and supplementary material from fixed random seeds.
+keywords:
+  - EAAT2
+  - SLC1A2
+  - GLT-1
+  - Alzheimer's disease
+  - astrocyte
+  - glutamate transport
+  - evidence synthesis
+  - reproducible research
